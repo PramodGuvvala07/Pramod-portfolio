@@ -21,7 +21,7 @@ A responsive, single-page portfolio made with plain HTML, CSS, and JavaScript. N
 9. Before publishing, verify your contact details, correct any dates, and add links to GitHub repositories or live project demos if you have them.
 
 ## Personalise before publishing
-- The resume lists the Vinsweb Solutions dates as `November 2025 - Jun 2025`, which appears inconsistent. The portfolio therefore labels the period “2025 · Dates to confirm”. Please confirm the correct start and end dates.
+- The resume lists the Vinsweb Solutions dates as `November 2025 - present`, which appears inconsistent. The portfolio therefore labels the period “2025 · Dates to confirm”. Please confirm the correct start and end dates.
 - Your resume does not specify a job title for Vinsweb Solutions, so the site describes the work rather than inventing a title.
 - The project cards currently link to an email asking about the project. Replace those links with actual GitHub/demo URLs when available.
 - The site uses Google Fonts from the internet; if offline, it falls back to generic fonts.
